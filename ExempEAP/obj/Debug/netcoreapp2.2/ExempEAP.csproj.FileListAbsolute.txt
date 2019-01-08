@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\bin\Debug\netcoreapp2.2\ExempEAP.deps.json
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\bin\Debug\netcoreapp2.2\ExempEAP.runtimeconfig.json
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\bin\Debug\netcoreapp2.2\ExempEAP.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\bin\Debug\netcoreapp2.2\ExempEAP.dll
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.AssemblyInfo.cs
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\bin\Debug\netcoreapp2.2\ExempEAP.pdb
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.dll
+C:\Users\admin\source\repos\ExempEAP\ExempEAP\obj\Debug\netcoreapp2.2\ExempEAP.pdb
